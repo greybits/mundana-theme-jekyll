@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'PagalEngineer Blog'
+description: 'PagalEngineer helps you with resources and guidance regarding BTE papers, study notes and a community of seniors & other students.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/pagalengineer-blog'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'greybits@protonmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
